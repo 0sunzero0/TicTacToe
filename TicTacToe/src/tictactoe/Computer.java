@@ -1,7 +1,6 @@
 /*Computer class는 인공지능으로써 자신의 mark를 표시할 위치를 결정하는 class입니다.
 이 클래스는 레벨이 여러 개로 나뉘어 구현되어 있고 레벨을 선택할 수 있습니다.
 */
-.PHONY: all clean testckage tictactoe;
 import java.util.Scanner;
 import java.util.Random;
 
