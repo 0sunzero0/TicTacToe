@@ -78,7 +78,6 @@ public class InputHandle {
          row = -1;
          column = -1;   
       }
-      //..?여기뭔가..이상한거같아요 
       if(row < 0) {
          System.out.println(num + ": NO Number!!");
          return false;
