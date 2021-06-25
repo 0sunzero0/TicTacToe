@@ -69,7 +69,7 @@ marks in a horizontal, vertical, or diagonal row wins the game.
 
 
 ### 업무 분담
-- 0sunzero0(개발자): 
+- 0sunzero0(Developer): 
   - Computer Class 구현
     - Main class를 짧게 간결하게 수정
     - Computer Class 알고리즘 설계 및 구현
