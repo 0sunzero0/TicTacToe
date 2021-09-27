@@ -5,7 +5,6 @@ marks in a horizontal, vertical, or diagonal row wins the game.
 - 틱택토(tic-tac-toe)게임입니다. Player와 Computer가 번갈아가며 O와 X를 3×3 판에 써는 게임입니다. 같은 글자를 가로, 세로, 혹은 대각선 상에 놓으면 이기는 게임을 구현했습니다
 - 진행 기간: 2018. 04. - 2018. 06.
 
-
 ### Role of class in the game
 1. saveLoad 
    - 게임 시작할 때 전에 한 게임 파일이 있다면 load할 수 있는 기능이 있고 게임하는 도중에 저장하고 싶으면 저장할 수 있는 기능이 있습니다.
@@ -23,7 +22,6 @@ marks in a horizontal, vertical, or diagonal row wins the game.
     - user가 보통 난이도로 이길 수 있도록 컴퓨터가 입력하는 기능이 있습니다.
 8. computerInputHard
     - user가 어려운 난이도로 이길 수 있도록 컴퓨터가 입력하는 기능이 있습니다.
-
 
 ### Design of Class
 1. saveLoad
@@ -54,10 +52,8 @@ marks in a horizontal, vertical, or diagonal row wins the game.
             - 3순위 효용 10 별로 의미 없는 수 ex. 먼저 가장 중간 그 다음으로 꼭짓점 그다음으로 랜덤
             - 4순위 기본적으로 가장 중간이 제일 효율적이고 꼭지점이 그 다음, 모서리가 그 다음으로 효율적인 수가 됩니다.
 
-
 ### Flow Chart of Main Class
 ![img](https://github.com/0sunzero0/TicTacToe/blob/master/img/Flow%20Chart.png)
-
 
 ### 배운점
 1. 이번 팀 프로젝트를 통해서 Github를 사용해서 팀원들과 소스를 공유하고 합칠 수 있는 방법을 배웠습니다. 
